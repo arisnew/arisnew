@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-arisnew.github.io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://arisnew.github.io)
 [![Odoo Site](https://img.shields.io/badge/Odoo-arisnew.odoo.com-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://arisnew.odoo.com)
+[![Odoo 20](https://img.shields.io/badge/Odoo-20-875A7B?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/page/release-notes)
 [![Twitter](https://img.shields.io/badge/Twitter-@arisnew-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arisnew)
 [![Hireable](https://img.shields.io/badge/Hireable-Yes-success?style=for-the-badge)](https://github.com/arisnew)
 
@@ -21,9 +22,9 @@ Passion at the intersection of **business and technology**. I help companies —
 
 > *Understand first, then implement.* Every business is unique. I start with workflow, pain points, and goals before writing a single line of code.
 
-- 🔭 Currently building Odoo integrations, custom modules, and developer tooling
-- 🧠 Focus areas: **Odoo ERP**, **Python**, **CRM/VoIP integrations**, **API & automation**
-- 📖 Writing on [my blog](https://arisnew.github.io) — Odoo tutorials, integrations, and ERP tips
+- 🔭 Currently exploring **Odoo 20** (AI process automation, MCP) — upgrades, integrations, and custom modules
+- 🧠 Focus areas: **Odoo ERP**, **Python**, **CRM/VoIP integrations**, **API & automation**, **DevOps (K8s/S3 filestore)**
+- 📖 Writing on [my blog](https://arisnew.github.io) — release notes, tutorials, and integration guides (ID/EN)
 - 🤝 Open to consulting, implementation, and collaboration
 
 ---
@@ -39,7 +40,7 @@ Passion at the intersection of **business and technology**. I help companies —
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Jekyll-CC0088?style=flat-square&logo=jekyll&logoColor=white" alt="Jekyll"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
@@ -58,16 +59,19 @@ Passion at the intersection of **business and technology**. I help companies —
 
 ### Odoo Apps Store
 
-- [**jsi_miitel**](https://apps.odoo.com/apps/modules/18.0/jsi_miitel) — MiiTel Phone × Odoo CRM integration (Odoo 18)
+- [**jsi_miitel**](https://apps.odoo.com/apps/modules/18.0/jsi_miitel) — MiiTel Phone × Odoo CRM integration (Odoo 18+)
 
 ---
 
 ## Latest from the Blog
 
+- [Odoo 20 Resmi Dirilis: Fitur Baru AI, Manufacturing & Panduan Upgrade](https://arisnew.github.io/odoo-20-fitur-baru-rilis-odoo-experience-2026/)
+- [Odoo 19 AI: Fitur Lengkap + Perbedaan Enterprise vs Community](https://arisnew.github.io/odoo-19-ai-fitur-enterprise-vs-community/)
+- [Filestore Odoo di AWS S3: Multi-Server dengan OCA fs_attachment](https://arisnew.github.io/odoo-fs-attachment-s3-filestore-multi-server/)
+- [Odoo FastAPI: REST API & Integrasi](https://arisnew.github.io/odoo-fastapi-rest-api-integrasi/)
 - [Integrasi Odoo dengan MiiTel: CRM, VoIP, dan Voice Analytics](https://arisnew.github.io/integrasi-odoo-miitel-crm-voip/)
-- [Odoo Studio: Kustomisasi ERP Tanpa Coding — Panduan + Webinar](https://arisnew.github.io/odoo-studio-kustomisasi-erp-tanpa-coding/)
 
-➡️ [Read more on arisnew.github.io](https://arisnew.github.io)
+➡️ [Read more on arisnew.github.io](https://arisnew.github.io) · [Blog on Odoo](https://arisnew.odoo.com/blog)
 
 ---
 
